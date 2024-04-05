@@ -1,4 +1,4 @@
 # SQLs
 Códigos SQL úteis
 
-Layout do Relatório criado no Fast Report
+Layout dos Relatórios criado no Fast Report
